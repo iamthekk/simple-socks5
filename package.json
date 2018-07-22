@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "binary": "^0.3.0",
+    "ip": "^1.1.5",
     "put": "0.0.6"
   },
   "devDependencies": {
